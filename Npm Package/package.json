@@ -1,0 +1,18 @@
+{
+  "name": "array-helper-kit",
+  "version": "1.0.0",
+  "description": "A collection of handy array manipulation functions for JavaScript arrays, including operations like summing, finding unique elements, filtering odd/even numbers, and more.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "utility",
+    "higher-order",
+    "functions"
+  ],
+  "author": "Mahima",
+  "license": "ISC"
+}
