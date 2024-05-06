@@ -1,0 +1,16 @@
+{
+  "name": "arr-frequency-counter",
+  "version": "1.0.0",
+  "description": "A simple utility function to count the frequency of elements in an array.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "frequency"
+  ],
+  "author": "Mahima",
+  "license": "ISC"
+}
